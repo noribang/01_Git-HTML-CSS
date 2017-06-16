@@ -15,6 +15,13 @@ git add .
 git add -A
 git commit -m "COMMENTS"
 git push
+
+git remote add origin <URL OF REMOTE REPO>
+	**THIS WILL ADD REMOTE REPO AS NICKNAME ORIGIN 
+
+git push -u origin master
+	**THIS WILL PUSH TO REMOTE ORIGIN FROM LOCAL MASTER
+
 git log
 git about
 git commit --amend **THIS AMENDS LAST COMMIT MESSAGE**
