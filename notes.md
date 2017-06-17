@@ -1,3 +1,11 @@
+# HTML
+* **Block elements** are elements that start on their own line.
+	* h1, h2...
+	* p
+	* ul
+	* li
+	* p 
+
 # Unix commands
 * cd 
 * cd ..
